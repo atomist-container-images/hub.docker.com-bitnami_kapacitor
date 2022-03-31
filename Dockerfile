@@ -95,6 +95,3 @@ FROM bitnami/kapacitor:1.6.3-debian-10-r45
 
 # Tags: 1.6.3-debian-10-r44
 FROM bitnami/kapacitor:1.6.3-debian-10-r44
-
-# Tags: 1.6.3-debian-10-r43
-FROM bitnami/kapacitor:1.6.3-debian-10-r43
