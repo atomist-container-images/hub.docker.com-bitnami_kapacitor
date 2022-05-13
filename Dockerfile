@@ -1,12 +1,42 @@
-# Tags: latest, 1.6.4-debian-10-r47, 1.6.4, 1-debian-10, 1
+# Tags: latest, 1.6.4-debian-10-r57, 1.6.4, 1-debian-10, 1
 FROM bitnami/kapacitor:latest
-FROM bitnami/kapacitor:1.6.4-debian-10-r47
+FROM bitnami/kapacitor:1.6.4-debian-10-r57
 FROM bitnami/kapacitor:1.6.4
 FROM bitnami/kapacitor:1-debian-10
 FROM bitnami/kapacitor:1
 
 # Tags: _
 FROM bitnami/kapacitor:_
+
+# Tags: 1.6.4-debian-10-r56
+FROM bitnami/kapacitor:1.6.4-debian-10-r56
+
+# Tags: 1.6.4-debian-10-r55
+FROM bitnami/kapacitor:1.6.4-debian-10-r55
+
+# Tags: 1.6.4-debian-10-r54
+FROM bitnami/kapacitor:1.6.4-debian-10-r54
+
+# Tags: 1.6.4-debian-10-r53
+FROM bitnami/kapacitor:1.6.4-debian-10-r53
+
+# Tags: 1.6.4-debian-10-r52
+FROM bitnami/kapacitor:1.6.4-debian-10-r52
+
+# Tags: 1.6.4-debian-10-r51
+FROM bitnami/kapacitor:1.6.4-debian-10-r51
+
+# Tags: 1.6.4-debian-10-r50
+FROM bitnami/kapacitor:1.6.4-debian-10-r50
+
+# Tags: 1.6.4-debian-10-r49
+FROM bitnami/kapacitor:1.6.4-debian-10-r49
+
+# Tags: 1.6.4-debian-10-r48
+FROM bitnami/kapacitor:1.6.4-debian-10-r48
+
+# Tags: 1.6.4-debian-10-r47
+FROM bitnami/kapacitor:1.6.4-debian-10-r47
 
 # Tags: 1.6.4-debian-10-r46
 FROM bitnami/kapacitor:1.6.4-debian-10-r46
@@ -64,33 +94,3 @@ FROM bitnami/kapacitor:1.6.4-debian-10-r29
 
 # Tags: 1.6.4-debian-10-r28
 FROM bitnami/kapacitor:1.6.4-debian-10-r28
-
-# Tags: 1.6.4-debian-10-r27
-FROM bitnami/kapacitor:1.6.4-debian-10-r27
-
-# Tags: 1.6.4-debian-10-r26
-FROM bitnami/kapacitor:1.6.4-debian-10-r26
-
-# Tags: 1.6.4-debian-10-r25
-FROM bitnami/kapacitor:1.6.4-debian-10-r25
-
-# Tags: 1.6.4-debian-10-r24
-FROM bitnami/kapacitor:1.6.4-debian-10-r24
-
-# Tags: 1.6.4-debian-10-r23
-FROM bitnami/kapacitor:1.6.4-debian-10-r23
-
-# Tags: 1.6.4-debian-10-r22
-FROM bitnami/kapacitor:1.6.4-debian-10-r22
-
-# Tags: 1.6.4-debian-10-r21
-FROM bitnami/kapacitor:1.6.4-debian-10-r21
-
-# Tags: 1.6.4-debian-10-r20
-FROM bitnami/kapacitor:1.6.4-debian-10-r20
-
-# Tags: 1.6.4-debian-10-r19
-FROM bitnami/kapacitor:1.6.4-debian-10-r19
-
-# Tags: 1.6.4-debian-10-r18
-FROM bitnami/kapacitor:1.6.4-debian-10-r18
